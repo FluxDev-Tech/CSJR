@@ -1,0 +1,6 @@
+{
+  "name": "CSJR Nursing Student Management System",
+  "description": "A premium, modern, professional, and fully responsive student portal for the College of St. John Roxas Nursing Department, empowering future healthcare professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
